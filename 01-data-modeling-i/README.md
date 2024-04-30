@@ -1,7 +1,7 @@
 # Project 1: Modeling I
 ## 1. Run docker compose
 ```
-docker-compose up <br>
+docker-compose up
 ```
 เพื่อเชื่อมต่อ postgres
 
