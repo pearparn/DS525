@@ -1,14 +1,11 @@
 # Project 3: Building a Data Warehouse
-Redshift
-## 1. Run docker compose
+## 1. สร้าง Virtual Environment
 ```
-docker compose up
+python -m venv ENV
 ```
-เพื่อเชื่อมต่อ cassandra
 
 ## 2. Run requirements 
 ```
-python -m venv ENV
 source ENV/bin/activate
 pip install -r requirements.txt
 pip freeze
@@ -17,6 +14,6 @@ pip freeze
 
 ## 3. Run etl
 ```
-python etl.py 
+python etl_bigquery.py 
 ```
-เชื่อมต่อกับฐานข้อมูล Cassandra, สร้าง และใส่ข้อมูลลงในตาราง
+เชื่อมต่อกับฐานข้อมูล Bigquery
