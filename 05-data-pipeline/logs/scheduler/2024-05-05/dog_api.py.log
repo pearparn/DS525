@@ -1,0 +1,360 @@
+[2024-05-05T14:34:25.598+0000] {processor.py:161} INFO - Started process (PID=30064) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:34:25.599+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:34:25.599+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:34:25.599+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:34:25.609+0000] {processor.py:840} INFO - DAG(s) 'dog_api' retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:34:25.770+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:34:25.770+0000] {override.py:1829} INFO - Created Permission View: can edit on DAG:dog_api
+[2024-05-05T14:34:25.787+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:34:25.786+0000] {override.py:1829} INFO - Created Permission View: can delete on DAG:dog_api
+[2024-05-05T14:34:25.800+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:34:25.800+0000] {override.py:1829} INFO - Created Permission View: can read on DAG:dog_api
+[2024-05-05T14:34:25.801+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:34:25.801+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-05T14:34:25.813+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:34:25.813+0000] {dag.py:3118} INFO - Creating ORM DAG for dog_api
+[2024-05-05T14:34:25.825+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:34:25.825+0000] {dag.py:3954} INFO - Setting next_dagrun for dog_api to 2024-03-23 00:00:00+00:00, run_after=2024-03-24 00:00:00+00:00
+[2024-05-05T14:34:25.849+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.258 seconds
+[2024-05-05T14:34:56.114+0000] {processor.py:161} INFO - Started process (PID=30374) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:34:56.115+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:34:56.116+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:34:56.115+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:34:56.196+0000] {processor.py:840} INFO - DAG(s) 'dog_api' retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:34:56.366+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:34:56.366+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-05T14:34:56.538+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:34:56.538+0000] {dag.py:3954} INFO - Setting next_dagrun for dog_api to 2024-04-08 00:00:00+00:00, run_after=2024-04-09 00:00:00+00:00
+[2024-05-05T14:34:56.689+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.612 seconds
+[2024-05-05T14:34:59.899+0000] {processor.py:161} INFO - Started process (PID=30452) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:34:59.900+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:34:59.901+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:34:59.901+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:34:59.914+0000] {processor.py:840} INFO - DAG(s) 'dog_api' retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:34:59.940+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:34:59.940+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-05T14:34:59.973+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:34:59.972+0000] {dag.py:3954} INFO - Setting next_dagrun for dog_api to 2024-04-08 00:00:00+00:00, run_after=2024-04-09 00:00:00+00:00
+[2024-05-05T14:35:00.019+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.137 seconds
+[2024-05-05T14:35:02.648+0000] {processor.py:161} INFO - Started process (PID=30489) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:02.666+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:35:02.667+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:02.667+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:02.703+0000] {processor.py:840} INFO - DAG(s) 'dog_api' retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:02.782+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:02.782+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-05T14:35:02.972+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:02.972+0000] {dag.py:3954} INFO - Setting next_dagrun for dog_api to 2024-04-15 00:00:00+00:00, run_after=2024-04-16 00:00:00+00:00
+[2024-05-05T14:35:03.064+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.428 seconds
+[2024-05-05T14:35:18.842+0000] {processor.py:161} INFO - Started process (PID=30676) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:18.842+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:35:18.843+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:18.843+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:18.850+0000] {processor.py:840} INFO - DAG(s) 'dog_api' retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:18.870+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:18.870+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-05T14:35:18.890+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:18.889+0000] {dag.py:3954} INFO - Setting next_dagrun for dog_api to 2024-04-20 00:00:00+00:00, run_after=2024-04-21 00:00:00+00:00
+[2024-05-05T14:35:18.913+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.076 seconds
+[2024-05-05T14:35:22.015+0000] {processor.py:161} INFO - Started process (PID=30695) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:22.018+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:35:22.019+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:22.019+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:22.039+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:22.037+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 35, in <module>
+    read
+NameError: name 'read' is not defined
+[2024-05-05T14:35:22.046+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:22.096+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.088 seconds
+[2024-05-05T14:35:23.823+0000] {processor.py:161} INFO - Started process (PID=30715) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:23.824+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:35:23.825+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:23.825+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:23.840+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:23.833+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 35, in <module>
+    read_data
+NameError: name 'read_data' is not defined
+[2024-05-05T14:35:23.846+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:23.876+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.063 seconds
+[2024-05-05T14:35:24.827+0000] {processor.py:161} INFO - Started process (PID=30720) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:24.827+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:35:24.828+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:24.828+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:24.831+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:24.830+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 35
+    read_data =
+               ^
+SyntaxError: invalid syntax
+[2024-05-05T14:35:24.832+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:24.855+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.033 seconds
+[2024-05-05T14:35:25.842+0000] {processor.py:161} INFO - Started process (PID=30725) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:25.842+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:35:25.843+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:25.843+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:25.848+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:25.846+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 35
+    read_data = 
+                ^
+SyntaxError: invalid syntax
+[2024-05-05T14:35:25.848+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:25.874+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.042 seconds
+[2024-05-05T14:35:29.252+0000] {processor.py:161} INFO - Started process (PID=30750) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:29.253+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:35:29.254+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:29.254+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:29.268+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:29.262+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 35, in <module>
+    read_data = python
+                ^^^^^^
+NameError: name 'python' is not defined
+[2024-05-05T14:35:29.271+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:29.317+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.072 seconds
+[2024-05-05T14:35:31.135+0000] {processor.py:161} INFO - Started process (PID=30810) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:31.145+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:35:31.149+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:31.148+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:31.175+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:31.167+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 35, in <module>
+    read_data = pythonO
+                ^^^^^^^
+NameError: name 'pythonO' is not defined
+[2024-05-05T14:35:31.184+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:31.226+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.097 seconds
+[2024-05-05T14:35:32.452+0000] {processor.py:161} INFO - Started process (PID=30830) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:32.453+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:35:32.454+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:32.454+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:32.467+0000] {processor.py:840} INFO - DAG(s) 'dog_api' retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:32.504+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:32.504+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-05T14:35:32.533+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:32.533+0000] {dag.py:3954} INFO - Setting next_dagrun for dog_api to 2024-04-23 00:00:00+00:00, run_after=2024-04-24 00:00:00+00:00
+[2024-05-05T14:35:32.577+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.132 seconds
+[2024-05-05T14:35:37.628+0000] {processor.py:161} INFO - Started process (PID=30878) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:37.637+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:35:37.653+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:37.653+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:37.692+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:37.691+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 35, in <module>
+    read_data = PythonOperator()
+                ^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 467, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-05-05T14:35:37.713+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:37.785+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.202 seconds
+[2024-05-05T14:35:39.653+0000] {processor.py:161} INFO - Started process (PID=30903) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:39.690+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:35:39.697+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:39.697+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:39.785+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:39.756+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 35, in <module>
+    read_data = PythonOperator(
+                ^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 467, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-05-05T14:35:39.790+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:39.840+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.214 seconds
+[2024-05-05T14:35:40.847+0000] {processor.py:161} INFO - Started process (PID=30916) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:40.855+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:35:40.856+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:40.856+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:40.925+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:40.923+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 36, in <module>
+    t
+NameError: name 't' is not defined
+[2024-05-05T14:35:40.971+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:41.145+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.318 seconds
+[2024-05-05T14:35:47.556+0000] {processor.py:161} INFO - Started process (PID=31000) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:47.567+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:35:47.574+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:47.573+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:47.604+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:47.602+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 36
+    task_id=
+    ^^^^^^^^
+SyntaxError: expected argument value expression
+[2024-05-05T14:35:47.604+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:47.687+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.178 seconds
+[2024-05-05T14:35:49.389+0000] {processor.py:161} INFO - Started process (PID=31044) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:49.401+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:35:49.402+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:49.402+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:49.423+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:49.416+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 35, in <module>
+    read_data = PythonOperator(
+                ^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 467, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-05-05T14:35:49.425+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:49.468+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.087 seconds
+[2024-05-05T14:35:50.527+0000] {processor.py:161} INFO - Started process (PID=31054) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:50.528+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:35:50.529+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:50.528+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:50.539+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:50.537+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 35, in <module>
+    read_data = PythonOperator(
+                ^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 467, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-05-05T14:35:50.540+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:50.567+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.047 seconds
+[2024-05-05T14:35:52.621+0000] {processor.py:161} INFO - Started process (PID=31069) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:52.622+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:35:52.622+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:52.622+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:52.630+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:35:52.628+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 35, in <module>
+    read_data = PythonOperator(
+                ^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 467, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-05-05T14:35:52.631+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:35:52.652+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.036 seconds
+[2024-05-05T14:36:04.321+0000] {processor.py:161} INFO - Started process (PID=31185) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:36:04.322+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:36:04.323+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:36:04.322+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:36:04.330+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:36:04.329+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 35, in <module>
+    read_data = PythonOperator(
+                ^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 467, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-05-05T14:36:04.331+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:36:04.352+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.036 seconds
+[2024-05-05T14:36:06.340+0000] {processor.py:161} INFO - Started process (PID=31190) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:36:06.342+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:36:06.343+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:36:06.342+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:36:06.354+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:36:06.351+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 35, in <module>
+    read_data = PythonOperator(
+                ^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 467, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-05-05T14:36:06.355+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:36:06.383+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.049 seconds
+[2024-05-05T14:36:36.795+0000] {processor.py:161} INFO - Started process (PID=31468) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:36:36.800+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:36:36.801+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:36:36.801+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:36:36.819+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:36:36.812+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 35, in <module>
+    read_data = PythonOperator(
+                ^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 467, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-05-05T14:36:36.820+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:36:36.880+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.104 seconds
+[2024-05-05T14:37:07.118+0000] {processor.py:161} INFO - Started process (PID=31745) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:37:07.119+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:37:07.120+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:37:07.120+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:37:07.130+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:37:07.129+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 35, in <module>
+    read_data = PythonOperator(
+                ^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 467, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-05-05T14:37:07.131+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:37:07.160+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.048 seconds
+[2024-05-05T14:37:37.378+0000] {processor.py:161} INFO - Started process (PID=32022) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:37:37.379+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:37:37.380+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:37:37.379+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:37:37.389+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:37:37.387+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dog_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dog_api.py", line 35, in <module>
+    read_data = PythonOperator(
+                ^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 467, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-05-05T14:37:37.390+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:37:37.417+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.046 seconds
+[2024-05-05T14:37:42.926+0000] {processor.py:161} INFO - Started process (PID=32072) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:37:42.927+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:37:42.928+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:37:42.928+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:37:42.938+0000] {processor.py:840} INFO - DAG(s) 'dog_api' retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:37:43.111+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:37:43.111+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-05T14:37:43.140+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:37:43.139+0000] {dag.py:3954} INFO - Setting next_dagrun for dog_api to 2024-05-05 00:00:00+00:00, run_after=2024-05-06 00:00:00+00:00
+[2024-05-05T14:37:43.176+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.257 seconds
+[2024-05-05T14:38:13.267+0000] {processor.py:161} INFO - Started process (PID=32349) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:38:13.268+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:38:13.269+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:38:13.269+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:38:13.287+0000] {processor.py:840} INFO - DAG(s) 'dog_api' retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:38:13.312+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:38:13.312+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-05T14:38:13.341+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:38:13.340+0000] {dag.py:3954} INFO - Setting next_dagrun for dog_api to 2024-05-05 00:00:00+00:00, run_after=2024-05-06 00:00:00+00:00
+[2024-05-05T14:38:13.393+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.133 seconds
+[2024-05-05T14:38:43.937+0000] {processor.py:161} INFO - Started process (PID=32632) to work on /opt/airflow/dags/dog_api.py
+[2024-05-05T14:38:43.937+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dog_api.py for tasks to queue
+[2024-05-05T14:38:43.938+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:38:43.938+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:38:43.949+0000] {processor.py:840} INFO - DAG(s) 'dog_api' retrieved from /opt/airflow/dags/dog_api.py
+[2024-05-05T14:38:43.978+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:38:43.978+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-05T14:38:44.012+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:38:44.012+0000] {dag.py:3954} INFO - Setting next_dagrun for dog_api to 2024-05-05 00:00:00+00:00, run_after=2024-05-06 00:00:00+00:00
+[2024-05-05T14:38:44.041+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dog_api.py took 0.111 seconds
