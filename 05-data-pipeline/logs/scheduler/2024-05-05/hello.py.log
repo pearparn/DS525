@@ -1913,3 +1913,10 @@ SyntaxError: invalid syntax
 [2024-05-05T14:38:38.439+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:38:38.438+0000] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-05-05T14:38:38.455+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:38:38.455+0000] {dag.py:3954} INFO - Setting next_dagrun for hello to None, run_after=None
 [2024-05-05T14:38:38.484+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hello.py took 0.088 seconds
+[2024-05-05T14:39:08.741+0000] {processor.py:161} INFO - Started process (PID=32858) to work on /opt/airflow/dags/hello.py
+[2024-05-05T14:39:08.742+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2024-05-05T14:39:08.743+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:39:08.742+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2024-05-05T14:39:08.749+0000] {processor.py:840} INFO - DAG(s) 'hello' retrieved from /opt/airflow/dags/hello.py
+[2024-05-05T14:39:08.775+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:39:08.774+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-05T14:39:08.792+0000] {logging_mixin.py:188} INFO - [2024-05-05T14:39:08.791+0000] {dag.py:3954} INFO - Setting next_dagrun for hello to None, run_after=None
+[2024-05-05T14:39:08.823+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hello.py took 0.088 seconds
